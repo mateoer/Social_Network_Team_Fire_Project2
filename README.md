@@ -37,9 +37,9 @@ To-do list:
 
 ## Contributors
 
-> Caleb Gulledge
+> Eric Mateo 
 > David Dominguez
-> Eric Mateo
+> Caleb Gulledge
 > Stephen Brady
 
 ## License
